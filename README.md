@@ -1,16 +1,17 @@
 ### Hi there 👋
+My name is Achyuthuni Sri Harsha. Checkout my website [www.harshaash.com](www.harshaash.com).
 
-<!--
-**HarshaAsh/HarshaAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Who am I**: I am currently working as a Senior business analyst at Tesco. I am an alumnus of IIMB and Mu-Sigma. 
 
-Here are some ideas to get you started:
+**Useful Repositories**:   
+- [data_science](https://github.com/HarshaAsh/data_science): Has various data science concepts and code in R. Contains codes for some of the blogs that I write at  [www.harshaash.com](www.harshaash.com)
+- [ClassificationModels](https://github.com/HarshaAsh/ClassificationModels): I want to start a repository with the codes for different data science concepts in python. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ideas**
+- 🔭 I’m currently working on [Data Science blog](https://github.com/users/HarshaAsh/projects/2)
+- 🌱 I’m currently learning at Imperial college london
+- 👯 I’m looking to collaborate on data science, machine learning and artificial intelligence projects
+- 🤔 I’m looking for help with quality work in business analytics domain
+- 💬 Ask me about data sceince and allied topics
+- 📫 How to reach me: LinkedIn profile	[Achyuthuni Sri Harsha](https://www.linkedin.com/in/sri-harsha-achyuthuni/)  
+- ⚡ Fun fact: According to evolution cats won between cats vs dogs
