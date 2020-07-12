@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Achyuthuni Sri Harsha. Checkout my website [www.harshaash.com](www.harshaash.com).
+My name is Achyuthuni Sri Harsha. Checkout my website [www.harshaash.com](https://www.harshaash.com).
 
 **Who am I**: I am currently working as a Senior business analyst at Tesco. I am an alumnus of IIMB and Mu-Sigma. 
 
