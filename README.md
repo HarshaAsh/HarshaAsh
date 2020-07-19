@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Achyuthuni Sri Harsha. Checkout my website [www.harshaash.com](https://www.harshaash.com).
 
-**Who am I**: I am currently working as a Senior business analyst at Tesco. I am an alumnus of IIMB and Mu-Sigma. 
+**Who am I**: I am currently working as a Senior business analyst at Tesco. I am going to join the autumn cohort of MSc Business Analytics in Imperial College London. I am an alumnus of IIMB and Mu-Sigma. 
 
 **Useful Repositories**:   
 - [data_science](https://github.com/HarshaAsh/data_science): Has various data science concepts and code in R. Contains codes for some of the blogs that I write at  [www.harshaash.com](www.harshaash.com)
