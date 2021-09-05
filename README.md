@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Achyuthuni Sri Harsha. Checkout my blog [www.harshaash.com](https://www.harshaash.com).
+My name is Achyuthuni Sri Harsha. Checkout my blog [www.harshaash.com](https://www.harshaash.website).
 
 **Who am I**: I am currently working as a **data science consultant at Deloitte**. I am also pursuing **MSc Business Analytics at Imperial College London**. I have previously worked at Tesco and Mu-Sigma and alumnus of IIM Bangalore and Amrita university. 
 
