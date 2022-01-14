@@ -6,7 +6,7 @@ My name is Achyuthuni Sri Harsha. Checkout my blog [www.harshaash.com](https://w
 **Useful Repositories**:   
 - [data_science](https://github.com/HarshaAsh/data_science): Has various data science concepts and code in R. Contains codes and R Markdowns for some of the blogs that I write at  [www.harshaash.com](www.harshaash.com)
 - [ClassificationModels](https://github.com/HarshaAsh/ClassificationModels): Has various data science tutorial and blog notebooks in python.  
-- [website-mkdocs](https://github.com/HarshaAsh/website-mkdocs): Contains the code of the [hosted on github pages](https://www.harshaash.com)
+- [website-mkdocs](https://github.com/HarshaAsh/website-mkdocs): Contains the code of the [hosted on github pages](https://www.harshaash.com)  
 **Ideas**
 - 🔭 I’m currently working on [Data Science blog](https://github.com/users/HarshaAsh/projects/2)
 - 🌱 I’m currently learning at Imperial college london
