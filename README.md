@@ -10,7 +10,7 @@ My name is Achyuthuni Sri Harsha. Checkout my blog [www.harshaash.com](https://w
 - [website-mkdocs](https://github.com/HarshaAsh/website-mkdocs): Contains the code of the [hosted on github pages](https://www.harshaash.com)  
 
 **Ideas**
-- 🔭 I’m currently working on two projects, a [RAG based chatbot](https://read-article.streamlit.app/) and a [Resume Generator](http://resumecreator.aharsha.com/)
+- 🔭 I’m currently working on many projects, few of them are: [RAG based chatbot](https://read-article.streamlit.app/) and a [Resume Generator](http://resumecreator.aharsha.com/)
   - **[Resume Generator](http://resumecreator.aharsha.com/) refines your resume based on a specific job description.**
   - [RAG Chatbot](https://read-article.streamlit.app/) is a streamlit-based simple RAG-based chatbot where you can upload a pdf file or a link and get responses based on them.  
 - 💬 Ask me about data science, ML, AI and allied topics  
