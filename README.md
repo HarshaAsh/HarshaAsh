@@ -13,7 +13,7 @@ My name is Achyuthuni Sri Harsha. Checkout my blog [www.harshaash.com](https://w
 - 🔭 I’m currently working on many projects, few of them are: [RAG based chatbot](https://read-article.streamlit.app/) and a [Resume Generator](http://resumecreator.aharsha.com/)
   - **[Resume Generator](http://resumecreator.aharsha.com/) refines your resume based on a specific job description.**
   - [RAG Chatbot](https://read-article.streamlit.app/) is a streamlit-based simple RAG-based chatbot where you can upload a pdf file or a link and get responses based on them.  
-- 💬 Ask me about data science, ML, AI and allied topics  
+- 💬 Ask me about data science, ML, AI, Gen AI and allied topics  
 - 📫 How to reach me:
      - LinkedIn profile	[Achyuthuni Sri Harsha](https://www.linkedin.com/in/sri-harsha-achyuthuni/)
      - Website: [www.harshaash.com](https://www.harshaash.com)
